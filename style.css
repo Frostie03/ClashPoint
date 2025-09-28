@@ -1,5 +1,5 @@
 /* Responsive Design */
-/* @media (max-width: 1024px) {
+@media (max-width: 1024px) {
     .nav {
         padding-right: 60px;
         gap: 18px;
@@ -67,7 +67,7 @@
     .footer-content {
         font-size: 0.95rem;
     }
-} */
+}
 /* HEADER CONTENT */
 header { /* Fixed transparent header */
     position: relative;
