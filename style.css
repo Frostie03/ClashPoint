@@ -17,7 +17,7 @@
 @media (max-width: 768px) {
     header {
         flex-direction: column;
-        padding: 10px 5vw;
+        /* padding: 10px 5vw; */
         gap: 10px;
     }
     .nav {
@@ -46,7 +46,7 @@
 
 @media (max-width: 480px) {
     header {
-        padding: 6px 2vw;
+        /* padding: 6px 2vw; */
     }
     #logo-tagline h1 {
         font-size: 1.2rem;
@@ -167,5 +167,6 @@ footer {/* Footer styles */
     font-size: 1.1rem;
 
 }
+
 
 
