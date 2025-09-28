@@ -1,7 +1,7 @@
 /* Responsive Design */
 @media (max-width: 1024px) {
     .nav {
-        padding-right: 60px;
+        /* padding-right: 60px; */
         gap: 18px;
     }
     .about-box {
@@ -167,4 +167,5 @@ footer {/* Footer styles */
     font-size: 1.1rem;
 
 }
+
 
